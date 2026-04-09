@@ -184,12 +184,8 @@ streamlit run app.py
 ## 👤 Author
 
 **Meghaj Sunil Jadhav**  
-Research Coordinator, ACTREC–Tata Memorial Centre, Mumbai  
-M.Sc. Big Data Analytics, University of Mumbai  
+
 meghajjadhav17@gmail.com
 
 ---
 
-## 📄 License
-
-This project is licensed under the MIT License.
